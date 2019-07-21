@@ -4,4 +4,4 @@ This codes helps us to get exact smpl for any image or video with human interven
 
 ## GUI Made with python Tkinter
 
-![GUI]('GUI_project.png')
+![GUI](GUI_project.png)
