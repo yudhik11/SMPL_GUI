@@ -12,3 +12,6 @@ which has multiple features like:
 - Undo/Save
 - Incorporated both male and female model
 - Changing params like Shape, Pose, Translation
+
+This tool helps to get very accurate
+![demo](a.png)
