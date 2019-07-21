@@ -3,5 +3,12 @@ This codes helps us to get exact smpl for any image or video with human interven
 
 
 ## GUI Made with python Tkinter
-
-![GUI](GUI_project.png)
+The GUI looks like:
+![GUI](GUI_Project.png)
+which has multiple features like:
+- Importing Video
+- Importing Cached VIdeo
+- Easy access across Images
+- Undo/Save
+- Incorporated both male and female model
+- Changing params like Shape, Pose, Translation
